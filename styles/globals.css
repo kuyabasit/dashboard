@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Avenir Next";
+  src: url("../fonts/Avenir-Next.ttc");
+  font-style: normal;
+  font-weight: normal;
+}
+
 html,
 body {
   padding: 0;
