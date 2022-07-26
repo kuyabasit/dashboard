@@ -26,7 +26,7 @@ import RightPanel from "../components/RightPanel";
 const assets = [
   {
     id: 1,
-    logoType: "real-estate",
+    logoType: "assets-realestate",
     company: "Paragon Place",
     alType: "Condominium",
     amount: "9,500,000.00",
@@ -34,7 +34,7 @@ const assets = [
   },
   {
     id: 2,
-    logoType: "real-estate",
+    logoType: "assets-realestate",
     company: "BF Resort Village",
     alType: "House & Lot",
     amount: "9,500,000.00",
@@ -42,14 +42,14 @@ const assets = [
   },
   {
     id: 3,
-    logoType: "stocks",
+    logoType: "assets-equity",
     company: "San Miguel Corporation",
     alType: "Stocks",
     amount: "50,000.00",
   },
   {
     id: 4,
-    logoType: "fund",
+    logoType: "assets-government-savings",
     company: "Pag-Ibig MP2",
     alType: "Fund",
     amount: "20,000.00",

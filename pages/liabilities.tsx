@@ -26,21 +26,21 @@ import RightPanel from "../components/RightPanel";
 const liabilities = [
   {
     id: 1,
-    logoType: "real-estate",
+    logoType: "realesttate-icon",
     company: "Eastwest Bank",
     alType: "Personal Loan",
     amount: "35,000.00",
   },
   {
     id: 2,
-    logoType: "real-estate",
+    logoType: "realesttate-icon",
     company: "BF Resort Village",
     alType: "Family Home Mortgage",
     amount: "7,500,000.00",
   },
   {
     id: 3,
-    logoType: "debt",
+    logoType: "consumer-debt",
     company: "BPI Amore Visa",
     alType: "Credit Card Debt",
     amount: "10,000.00",

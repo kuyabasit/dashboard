@@ -35,7 +35,7 @@ const PortfolioItem = ({ portfolio }: AppProps) => {
       <Flex key={portfolio.id} alignItems='center'>
         <HStack alignItems='center'>
           <Image
-            src='/assets-realestate.svg'
+            src={`/${portfolio.logoType}.svg`}
             alt='real estate'
             width={60}
             height={60}
